@@ -16,7 +16,19 @@ BBA in Business Analytics graduate | Python, SQL, Tableau | Transforming data in
 
 ⚡ Fun fact: I’ve co-authored research papers combining blockchain and machine learning for healthcare!
 
+## 🛠️ Languages and Tools
+
+<br>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,mongodb,python,html" />
+</p>
+
+<hr>
+
 <div align="center"> 
   <p>Visitor count</p>
   <img src="https://profile-counter.glitch.me/{USERNAME}/count.svg" alt="Visitor's Count" />
 </div>
+
+
