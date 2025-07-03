@@ -1,4 +1,6 @@
-Hi there 👋🏾
+### Hi there 👋🏾
+
+## About me
 
 BBA in Business Analytics graduate | Python, SQL, Tableau | Transforming data into strategic value.
 
@@ -21,7 +23,7 @@ BBA in Business Analytics graduate | Python, SQL, Tableau | Transforming data in
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,mongodb,python,html" />
+  <img src="https://skillicons.dev/icons?i=java,mongodb,python,html,looker studio,bigquery" />
 </p>
 
 <hr>
