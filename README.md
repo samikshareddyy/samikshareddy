@@ -23,7 +23,7 @@ BBA in Business Analytics graduate | Python, SQL, Tableau | Transforming data in
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,mongodb,python,html,looker studio,bigquery" />
+  <img src="https://skillicons.dev/icons?i=java,mongodb,python,html,bigquery" />
 </p>
 
 <hr>
